@@ -2,6 +2,9 @@
 
 Este projeto é um sistema de gerenciamento de pedidos desenvolvido em **Spring Boot** como parte do checkpoint da disciplina **Arquitetura SOA e Web Services**.
 
+📌 **Feito por:** João Antonio Rihan (rm99656) e Rodrigo Fernandes Serafim (rm550816) 🚀
+
+
 ## 📌 Tecnologias Utilizadas
 - Java 17
 - Spring Boot 3.1
@@ -128,17 +131,22 @@ O projeto utiliza o **H2 Database** em memória. Para acessar o console:
 Aqui estão as imagens dos testes realizados no **Postman**:
 
 Criando um novo pedido
-![Teste 1](./img/imagem1.png)
+![Teste 1](./img/imagem1.PNG)
+<br>
 Buscando todos os pedidos
-![Teste 2](./img/imagem2.png)
+![Teste 2](./img/imagem2.PNG)
+<br>
 Buscar um pedido pelo ID
-![Teste 3](./img/imagem3.png)
+![Teste 3](./img/imagem3.PNG)
+<br>
 Atualizar um pedido
-![Teste 4](./img/imagem4.png)
+![Teste 4](./img/imagem4.PNG)
+<br>
 Deletar um pedido
-![Teste 5](./img/imagem5.png)
+![Teste 5](./img/imagem5.PNG)
+<br>
 
 ---
 
-📌 **Feito por:** João Antônio Rihan e Rodrigo Fernandes Serafim 🚀
+
 
